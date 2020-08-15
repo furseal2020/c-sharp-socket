@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{628CFF3B-0BCA-4BBA-9214-922CAFD8512C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628CFF3B-0BCA-4BBA-9214-922CAFD8512C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628CFF3B-0BCA-4BBA-9214-922CAFD8512C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628CFF3B-0BCA-4BBA-9214-922CAFD8512C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628CFF3B-0BCA-4BBA-9214-922CAFD8512C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7731C426-4718-4D94-A1FB-6D1720983E85}
+	EndGlobalSection
+EndGlobal
